@@ -1,14 +1,40 @@
+.navbar {
+  background: none;
+  /* text-align:center; */
+  display:flex;
+  justify-content: center;
+}
+
+
+a {
+    color: white;
+    font-family: 'Lato', serif;
+    font-size:.8em;
+    padding-bottom:12px;
+}
+
+a:hover {
+  color:white;
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 1px solid #A2D1D0;
+}
+
+li {
+  margin: 10px;
+}
+
 .bg {
   background: url('bg2.JPG') no-repeat center center;
   background-size: cover;
   position: fixed;
   width: 100%;
-  height: 100vh;
+  height: 97vh;
   z-index: -1;
 }
 
 .jumbotron {
-  height: 100vh;
+  height: 97vh;
   color: white;
   background-color: transparent;
   padding-top:120px;
@@ -31,8 +57,8 @@
 .about{
   color: #373F51;
   width: 100%;
-  height: 85%;
-  padding-top: 2%;
+  height: 75%;
+  padding-top:2%
   padding-bottom:3%;
   text-align: center;
   font-family: 'Lato', serif;
