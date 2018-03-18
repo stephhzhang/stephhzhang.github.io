@@ -1,0 +1,987 @@
+getJsonCallback({
+  "global": {
+    "version": "2.205sv86",
+    "generator": "MSheetsAO",
+    "author": "stephzhang92@gmail.com",
+    "language": "en",
+    "created": "2018-03-04T19:32:35.486Z",
+    "filename": "google-maps---website.sheet1.0.json",
+    "sharing": "Share this .json file for View access with whom you want to view your map, then send them your map Url link"
+  },
+  "headers": [
+    "Place I've Visited ",
+    "Region"
+  ],
+  "fields": {
+    "filter": "Place I've Visited ",
+    "name": "Place I've Visited ",
+    "address": "Place I've Visited "
+  },
+  "groupBy": {
+    "title": "Place I've Visited ",
+    "list": [
+      {
+        "value": "Arizona, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Blue.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Ashville, NC, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Brown.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Athens, Greece",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Aqua.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Atlanta, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Green.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Beijing, China",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Magenta.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Berlin, Germany",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Orange.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "California, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Purple.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Cancun, Mexico ",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Red.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Chengdu, China",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Yellow.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Chiang Mai, Thailand ",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Maroon.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Copenhagen, Denmark",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Gray.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Dali, China",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Lime.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Florida, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Olive.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Guiling, China",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Teal.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Hainan, China",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/HotPink.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Hangzhou, China",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Aquamarine.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Hanoi, Vietnam",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/LightSteelBlue.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Harbin, China",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/BlueViolet.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Hawaii, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Chartreuse.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Hong Kong, China",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Chocolate.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Illinois, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/CornflowerBlue.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Inner Mongolia, China",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Crimson.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Ireland, UK ",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/DarkSlateGray.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Lijiang, China",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/DarkBlue.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Massachusetts, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/DarkMagenta.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Michigan, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Cyan.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Mykonos, Greece",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/DarkCyan.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Nevada, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/DarkGreen.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "New Hampshire, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/DarkOliveGreen.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "New Jersey, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/DarkOrange.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "New York, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/DarkOrchid.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "North Carolina, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/DarkRed.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Paris, France",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/DarkSlateBlue.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Pennsylvania, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/DarkViolet.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Prague, Czech Republic",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/DeepPink.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Rome, Italy",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/DimGray.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Santorini, Greece",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/DodgerBlue.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Shanghai, China ",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/FireBrick.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "South Carolina, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/ForestGreen.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Tennesse, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Fuchsia.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Texas, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Gold.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Tokyo, Japan",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/IndianRed.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Utah, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/Indigo.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Vancouver, Canada",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/LawnGreen.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Venice, Italy",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/LightBlue.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Vermont, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/LightCoral.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Washington, United States",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/LightSeaGreen.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Xiamen, China",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/LightSkyBlue.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      },
+      {
+        "value": "Xinjiang, China",
+        "qty": 1,
+        "icon": {
+          "url": "//thexs-host.firebaseapp.com/icons/pins/LimeGreen.svg"
+        },
+        "tag": " (1)",
+        "checked": true
+      }
+    ]
+  },
+  "filters": [],
+  "html": {
+    "infowindow": "https://thexs-mapping.firebaseapp.com/xm-infowindow.html",
+    "locaslist": "https://thexs-mapping.firebaseapp.com/xm-locas-list.html"
+  },
+  "custom": {
+    "pageTitle": "Mapping by theXS",
+    "hideFilters": false,
+    "showPlace": false,
+    "placeRadius": 10,
+    "placeUnit": "km",
+    "placeFilter": false,
+    "filtersQty": 0,
+    "styledMap": "",
+    "styledMapDefault": false,
+    "markerDraggable": false,
+    "titleTemplate": null,
+    "listingTemplate": null
+  },
+  "mapBoundsSwNe": {
+    "sw": {
+      "lat": 18.7060641,
+      "lng": -155.5827818
+    },
+    "ne": {
+      "lat": 55.6760968,
+      "lng": 139.6917064
+    }
+  },
+  "locations": [
+    {
+      "latitude": 19.8967662,
+      "longitude": -155.5827818,
+      "properties": {
+        "Place I've Visited ": "Hawaii, United States",
+        "Region": "US"
+      },
+      "id": 0,
+      "uid": 2
+    },
+    {
+      "latitude": 31.2303904,
+      "longitude": 121.4737021,
+      "properties": {
+        "Place I've Visited ": "Shanghai, China ",
+        "Region": "Asia "
+      },
+      "id": 1,
+      "uid": 3
+    },
+    {
+      "latitude": 30.572815,
+      "longitude": 104.066801,
+      "properties": {
+        "Place I've Visited ": "Chengdu, China",
+        "Region": "Asia "
+      },
+      "id": 2,
+      "uid": 4
+    },
+    {
+      "latitude": 30.274084,
+      "longitude": 120.15507,
+      "properties": {
+        "Place I've Visited ": "Hangzhou, China",
+        "Region": "Asia "
+      },
+      "id": 3,
+      "uid": 5
+    },
+    {
+      "latitude": 42.5246357,
+      "longitude": 87.5395855,
+      "properties": {
+        "Place I've Visited ": "Xinjiang, China",
+        "Region": "Asia "
+      },
+      "id": 4,
+      "uid": 6
+    },
+    {
+      "latitude": 19.5663947,
+      "longitude": 109.949686,
+      "properties": {
+        "Place I've Visited ": "Hainan, China",
+        "Region": "Asia "
+      },
+      "id": 5,
+      "uid": 7
+    },
+    {
+      "latitude": 45.80377499999999,
+      "longitude": 126.534967,
+      "properties": {
+        "Place I've Visited ": "Harbin, China",
+        "Region": "Asia "
+      },
+      "id": 6,
+      "uid": 8
+    },
+    {
+      "latitude": 43.37822,
+      "longitude": 115.0594815,
+      "properties": {
+        "Place I've Visited ": "Inner Mongolia, China",
+        "Region": "Asia "
+      },
+      "id": 7,
+      "uid": 9
+    },
+    {
+      "latitude": 25.606486,
+      "longitude": 100.267638,
+      "properties": {
+        "Place I've Visited ": "Dali, China",
+        "Region": "Asia "
+      },
+      "id": 8,
+      "uid": 10
+    },
+    {
+      "latitude": 24.479833,
+      "longitude": 118.089425,
+      "properties": {
+        "Place I've Visited ": "Xiamen, China",
+        "Region": "Asia"
+      },
+      "id": 9,
+      "uid": 11
+    },
+    {
+      "latitude": 39.90419989999999,
+      "longitude": 116.4073963,
+      "properties": {
+        "Place I've Visited ": "Beijing, China",
+        "Region": "Asia"
+      },
+      "id": 10,
+      "uid": 12
+    },
+    {
+      "latitude": 26.855047,
+      "longitude": 100.22775,
+      "properties": {
+        "Place I've Visited ": "Lijiang, China",
+        "Region": "Asia "
+      },
+      "id": 11,
+      "uid": 13
+    },
+    {
+      "latitude": 25.266305,
+      "longitude": 110.728741,
+      "properties": {
+        "Place I've Visited ": "Guiling, China",
+        "Region": "Asia "
+      },
+      "id": 12,
+      "uid": 14
+    },
+    {
+      "latitude": 22.396428,
+      "longitude": 114.109497,
+      "properties": {
+        "Place I've Visited ": "Hong Kong, China",
+        "Region": "Asia "
+      },
+      "id": 13,
+      "uid": 15
+    },
+    {
+      "latitude": 21.0277644,
+      "longitude": 105.8341598,
+      "properties": {
+        "Place I've Visited ": "Hanoi, Vietnam",
+        "Region": "Asia "
+      },
+      "id": 14,
+      "uid": 16
+    },
+    {
+      "latitude": 18.7060641,
+      "longitude": 98.9817163,
+      "properties": {
+        "Place I've Visited ": "Chiang Mai, Thailand ",
+        "Region": "Asia"
+      },
+      "id": 15,
+      "uid": 17
+    },
+    {
+      "latitude": 35.6894875,
+      "longitude": 139.6917064,
+      "properties": {
+        "Place I've Visited ": "Tokyo, Japan",
+        "Region": "Asia"
+      },
+      "id": 16,
+      "uid": 18
+    },
+    {
+      "latitude": 48.856614,
+      "longitude": 2.3522219,
+      "properties": {
+        "Place I've Visited ": "Paris, France",
+        "Region": "Europe"
+      },
+      "id": 17,
+      "uid": 19
+    },
+    {
+      "latitude": 52.52000659999999,
+      "longitude": 13.404954,
+      "properties": {
+        "Place I've Visited ": "Berlin, Germany",
+        "Region": "Europe"
+      },
+      "id": 18,
+      "uid": 20
+    },
+    {
+      "latitude": 45.4408474,
+      "longitude": 12.3155151,
+      "properties": {
+        "Place I've Visited ": "Venice, Italy",
+        "Region": "Europe"
+      },
+      "id": 19,
+      "uid": 21
+    },
+    {
+      "latitude": 41.9027835,
+      "longitude": 12.4963655,
+      "properties": {
+        "Place I've Visited ": "Rome, Italy",
+        "Region": "Europe"
+      },
+      "id": 20,
+      "uid": 22
+    },
+    {
+      "latitude": 36.3931562,
+      "longitude": 25.4615092,
+      "properties": {
+        "Place I've Visited ": "Santorini, Greece",
+        "Region": "Europe"
+      },
+      "id": 21,
+      "uid": 23
+    },
+    {
+      "latitude": 37.4467354,
+      "longitude": 25.3288845,
+      "properties": {
+        "Place I've Visited ": "Mykonos, Greece",
+        "Region": "Europe"
+      },
+      "id": 22,
+      "uid": 24
+    },
+    {
+      "latitude": 37.9838096,
+      "longitude": 23.7275388,
+      "properties": {
+        "Place I've Visited ": "Athens, Greece",
+        "Region": "Europe"
+      },
+      "id": 23,
+      "uid": 25
+    },
+    {
+      "latitude": 55.6760968,
+      "longitude": 12.5683372,
+      "properties": {
+        "Place I've Visited ": "Copenhagen, Denmark",
+        "Region": "Europe"
+      },
+      "id": 24,
+      "uid": 26
+    },
+    {
+      "latitude": 50.0755381,
+      "longitude": 14.4378005,
+      "properties": {
+        "Place I've Visited ": "Prague, Czech Republic",
+        "Region": "Europe"
+      },
+      "id": 25,
+      "uid": 27
+    },
+    {
+      "latitude": 52.060308,
+      "longitude": -0.347161,
+      "properties": {
+        "Place I've Visited ": "Ireland, UK ",
+        "Region": "Europe"
+      },
+      "id": 26,
+      "uid": 28
+    },
+    {
+      "latitude": 40.7127753,
+      "longitude": -74.0059728,
+      "properties": {
+        "Place I've Visited ": "New York, United States",
+        "Region": "US"
+      },
+      "id": 27,
+      "uid": 29
+    },
+    {
+      "latitude": 44.5588028,
+      "longitude": -72.57784149999999,
+      "properties": {
+        "Place I've Visited ": "Vermont, United States",
+        "Region": "US"
+      },
+      "id": 28,
+      "uid": 30
+    },
+    {
+      "latitude": 43.1938516,
+      "longitude": -71.5723953,
+      "properties": {
+        "Place I've Visited ": "New Hampshire, United States",
+        "Region": "US"
+      },
+      "id": 29,
+      "uid": 31
+    },
+    {
+      "latitude": 41.2033216,
+      "longitude": -77.1945247,
+      "properties": {
+        "Place I've Visited ": "Pennsylvania, United States",
+        "Region": "US"
+      },
+      "id": 30,
+      "uid": 32
+    },
+    {
+      "latitude": 44.3148443,
+      "longitude": -85.60236429999999,
+      "properties": {
+        "Place I've Visited ": "Michigan, United States",
+        "Region": "US"
+      },
+      "id": 31,
+      "uid": 33
+    },
+    {
+      "latitude": 35.7595731,
+      "longitude": -79.01929969999999,
+      "properties": {
+        "Place I've Visited ": "North Carolina, United States",
+        "Region": "US"
+      },
+      "id": 32,
+      "uid": 34
+    },
+    {
+      "latitude": 33.836081,
+      "longitude": -81.1637245,
+      "properties": {
+        "Place I've Visited ": "South Carolina, United States",
+        "Region": "US"
+      },
+      "id": 33,
+      "uid": 35
+    },
+    {
+      "latitude": 35.5174913,
+      "longitude": -86.5804473,
+      "properties": {
+        "Place I've Visited ": "Tennesse, United States",
+        "Region": "US"
+      },
+      "id": 34,
+      "uid": 36
+    },
+    {
+      "latitude": 34.0489281,
+      "longitude": -111.0937311,
+      "properties": {
+        "Place I've Visited ": "Arizona, United States",
+        "Region": "US"
+      },
+      "id": 35,
+      "uid": 37
+    },
+    {
+      "latitude": 39.3209801,
+      "longitude": -111.0937311,
+      "properties": {
+        "Place I've Visited ": "Utah, United States",
+        "Region": "US"
+      },
+      "id": 36,
+      "uid": 38
+    },
+    {
+      "latitude": 38.8026097,
+      "longitude": -116.419389,
+      "properties": {
+        "Place I've Visited ": "Nevada, United States",
+        "Region": "US"
+      },
+      "id": 37,
+      "uid": 39
+    },
+    {
+      "latitude": 47.7510741,
+      "longitude": -120.7401385,
+      "properties": {
+        "Place I've Visited ": "Washington, United States",
+        "Region": "US"
+      },
+      "id": 38,
+      "uid": 40
+    },
+    {
+      "latitude": 31.9685988,
+      "longitude": -99.9018131,
+      "properties": {
+        "Place I've Visited ": "Texas, United States",
+        "Region": "US"
+      },
+      "id": 39,
+      "uid": 41
+    },
+    {
+      "latitude": 27.6648274,
+      "longitude": -81.5157535,
+      "properties": {
+        "Place I've Visited ": "Florida, United States",
+        "Region": "US"
+      },
+      "id": 40,
+      "uid": 42
+    },
+    {
+      "latitude": 40.0583238,
+      "longitude": -74.4056612,
+      "properties": {
+        "Place I've Visited ": "New Jersey, United States",
+        "Region": "US"
+      },
+      "id": 41,
+      "uid": 43
+    },
+    {
+      "latitude": 40.6331249,
+      "longitude": -89.3985283,
+      "properties": {
+        "Place I've Visited ": "Illinois, United States",
+        "Region": "US"
+      },
+      "id": 42,
+      "uid": 44
+    },
+    {
+      "latitude": 35.5950581,
+      "longitude": -82.5514869,
+      "properties": {
+        "Place I've Visited ": "Ashville, NC, United States",
+        "Region": "US"
+      },
+      "id": 43,
+      "uid": 45
+    },
+    {
+      "latitude": 33.7489954,
+      "longitude": -84.3879824,
+      "properties": {
+        "Place I've Visited ": "Atlanta, United States",
+        "Region": "US"
+      },
+      "id": 44,
+      "uid": 46
+    },
+    {
+      "latitude": 42.4072107,
+      "longitude": -71.3824374,
+      "properties": {
+        "Place I've Visited ": "Massachusetts, United States",
+        "Region": "US"
+      },
+      "id": 45,
+      "uid": 47
+    },
+    {
+      "latitude": 36.778261,
+      "longitude": -119.4179324,
+      "properties": {
+        "Place I've Visited ": "California, United States",
+        "Region": "US"
+      },
+      "id": 46,
+      "uid": 48
+    },
+    {
+      "latitude": 49.2827291,
+      "longitude": -123.1207375,
+      "properties": {
+        "Place I've Visited ": "Vancouver, Canada",
+        "Region": "CAN"
+      },
+      "id": 47,
+      "uid": 49
+    },
+    {
+      "latitude": 21.161908,
+      "longitude": -86.8515279,
+      "properties": {
+        "Place I've Visited ": "Cancun, Mexico ",
+        "Region": "MEX"
+      },
+      "id": 48,
+      "uid": 50
+    }
+  ]
+})
