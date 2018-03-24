@@ -8,6 +8,11 @@ $(window).scroll(function(){
     parallax();
 });
 
+// MAPS!
+
+var mymap = L.map('mapid').setView([51.505, -0.09], 13);
+
+
 // Skills bar
 
 // $.fn.isInViewport = function() {
@@ -621,4 +626,3 @@ $(window).scroll(function(){
   exports.default = WOW;
   module.exports = exports['default'];
 });
-

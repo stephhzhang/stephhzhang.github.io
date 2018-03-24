@@ -11,11 +11,16 @@
 
 .lead{
   text-align:left;
-  font-size: 1em;
-  font-style: trebuchet;
+  font-size: 1.3vw;
+  font-weight:1;
 }
 
+.stephzhang {
+  font-size:7vw;
+  font: lato;
+  font-weight:900;
 
+}
 
 /* a {
     color: white;
@@ -268,16 +273,20 @@ li {
 	color:#f7f7f7;
 }
 
-#places {
+/* #places {
   position:center;
-  /* height:120vh; */
   text-align: center;
   padding-top:3%;
   padding-bottom:3%;
   font-family: 'Lato', serif;
   background-color: #f7f7f7;
 
+} */
+
+#mapid {
+  height: 300px;
 }
+
 
 .map {
   padding-top:20px;
