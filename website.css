@@ -273,7 +273,7 @@ li {
 	color:#f7f7f7;
 }
 
-/* #places {
+#places {
   position:center;
   text-align: center;
   padding-top:3%;
@@ -281,7 +281,7 @@ li {
   font-family: 'Lato', serif;
   background-color: #f7f7f7;
 
-} */
+}
 
 #mapid {
   height: 300px;
