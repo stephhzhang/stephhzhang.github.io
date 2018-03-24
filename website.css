@@ -274,22 +274,26 @@ li {
 }
 
 #places {
-  position:center;
-  text-align: center;
   padding-top:3%;
-  padding-bottom:3%;
+  margin-top:20px;
+  margin-bottom:30px;
+  text-align: center;
   font-family: 'Lato', serif;
-  background-color: #f7f7f7;
 
 }
 
-#mapid {
+/* #mapid {
   height: 300px;
-}
+} */
 
 
 .map {
-  padding-top:20px;
+  diplay:block;
+  margin-left:auto;
+  margin-right:auto;
+  width: 800px;
+  height: 500px;
+
 }
 
 .interests{

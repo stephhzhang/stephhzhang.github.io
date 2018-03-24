@@ -146,28 +146,26 @@
   </div>
   </div>
 </div> -->
-</div>
 
+  <div id="container">
   <div id="places">
-    <div class="container">
-        <h5> - Places I've Visited -</h5>
 
+        <h5> - Places I've Visited -</h5>
+  </div>
         <!-- <div id="mapid"></div> -->
 
-        <div id='map' style='width: 1000px; height: 500px;'></div>
+        <div id='map' style='diplay:block; margin-left:auto; margin-right:auto; width: 90vw; height: 80vh;'></div>
         <script>
         mapboxgl.accessToken = 'pk.eyJ1Ijoic3RlcGhoemhhbmciLCJhIjoiY2pmNXEzYWl4MWZzdzMzcTcxajlwcGt6OSJ9.yvik5cWBpiKMj7pc5idWaA';
         var map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/mapbox/light-v9',
         center: [-74.50, 40], // starting position
-        zoom: 9, // starting zoom
+        zoom: 1, // starting zoom
         });
 
         map.addControl(new mapboxgl.NavigationControl());
         </script>
-
-
 
         <!-- <div class="map">
           <div class="embed-responsive embed-responsive-16by9">
