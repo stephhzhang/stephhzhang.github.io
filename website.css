@@ -273,7 +273,7 @@ li {
 	color:#f7f7f7;
 }
 
-#places {
+.places {
   padding-top:3%;
   margin-top:20px;
   margin-bottom:30px;
@@ -287,13 +287,12 @@ li {
 } */
 
 
-.map {
+#map {
   diplay:block;
   margin-left:auto;
   margin-right:auto;
   width: 800px;
   height: 500px;
-
 }
 
 .interests{
